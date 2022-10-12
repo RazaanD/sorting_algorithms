@@ -34,7 +34,3 @@ void insertion_sort_list(listint_t **list)
 		swap_node = next_swap;
 	}
 }
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
